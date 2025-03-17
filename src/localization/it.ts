@@ -5,7 +5,7 @@ const translations = {
   
   'ingredient.pairings': 'Abbinamenti Perfetti',
   'ingredient.compounds': 'Composti Chiave',
-  'ingredient.compounds_description': 'Questi composti chimici contribuiscono al profilo aromatico e aiutano a spiegare perché certi ingredienti si abbinano bene.',
+  'ingredient.compounds_description': 'Questi composti chimici contribuiscono al profilo di sapore e aiutano a spiegare perché certi ingredienti si abbinano bene insieme.',
   
   'recipes.title': 'Ricette',
   'recipes.description': 'Esplora ricette che sfruttano combinazioni di sapori scientificamente provate.'
